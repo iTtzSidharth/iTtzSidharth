@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iTtzSidharth
+- 👋 Hi, I’m Sidharth
 - 👀 I’m interested in TechStuff
 
 
