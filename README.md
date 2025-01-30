@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Sidharth
-- 👀 I’m interested in TechStuff
-
+- ...
 
 <!---
 iTtzSidharth/iTtzSidharth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
